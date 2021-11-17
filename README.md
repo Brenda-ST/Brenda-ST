@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Brenda-ST
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Brenda-ST/Brenda-ST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hola, soy  @Brenda-ST. Me  interesa aprender acerca de la programación y sus herramientas. Asímismo las nuevas herramientas de  la nube que no estoy muy familiarizada con ellas.
+Actualmente estoy aprendiendo un poco de pogramación aplicada en la econometría en los programas de R, Rstudio, Python, Stata y Eviews. 
+Estoy buscando colaborar en nuevos proyectos y aprendizajes para adquirir nuevos conocimientos y complementarlos con distintas áreas. 
